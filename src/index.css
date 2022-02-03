@@ -107,3 +107,7 @@ nav {
     transform: translateY(0rem);
   }
 }
+
+.toast {
+  max-width: 80%;
+}
