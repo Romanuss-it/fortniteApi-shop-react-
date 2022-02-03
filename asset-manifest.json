@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fortniteApi-shop-react-/static/css/main.773dd58b.css",
+    "main.js": "/fortniteApi-shop-react-/static/js/main.ed4c3403.js",
+    "index.html": "/fortniteApi-shop-react-/index.html",
+    "main.773dd58b.css.map": "/fortniteApi-shop-react-/static/css/main.773dd58b.css.map",
+    "main.ed4c3403.js.map": "/fortniteApi-shop-react-/static/js/main.ed4c3403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.773dd58b.css",
+    "static/js/main.ed4c3403.js"
+  ]
+}
